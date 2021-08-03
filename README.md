@@ -1,7 +1,7 @@
 ### Greetings 👋
 
-<!--
-**TysonPham/TysonPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 I am currently pursuing a bachelor in Software Engineering at Concordia University :mortar_board:
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: ...
-- [Email](mailto:tysonpham96@ @gmail.com)
+- [Email](mailto:tysonpham96@gmail.com)
 - [Personal Website](https://flowcv.me/og1xro1v4qvdaf6vq6sr26mb6v)
 - [LinkedIn](https://www.linkedin.com/in/tysonlpham/)
--->
+
