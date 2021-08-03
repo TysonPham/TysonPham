@@ -1,16 +1,18 @@
-### Hi there 👋
+### Greetings 👋
 
 <!--
 **TysonPham/TysonPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am currently pursuing a bachelor in Software Engineering at Concordia University :mortar_board:
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+- 🌱 I am passionate about the backend aspect of programming
+- 💻 Casually looking for **Fall 2021** internship opportunities
+- ⚡ Fun fact: I play badminton, practise martial arts and volunteer at a cat shelter :cat:
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Email](mailto:tysonpham96@ @gmail.com)
+- [Personal Website](https://flowcv.me/og1xro1v4qvdaf6vq6sr26mb6v)
+- [LinkedIn](https://www.linkedin.com/in/tysonlpham/)
 -->
