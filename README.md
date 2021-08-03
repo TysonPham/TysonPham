@@ -3,7 +3,7 @@
 
 
 I am currently pursuing a bachelor in Software Engineering at Concordia University :mortar_board:
-Here are some ideas to get you started:
+
 
 
 - 🌱 I am passionate about the backend aspect of programming
