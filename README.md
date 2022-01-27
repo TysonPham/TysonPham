@@ -6,9 +6,6 @@ I am currently pursuing a bachelor in Software Engineering at Concordia Universi
 
 
 
-- 🌱 I am passionate about the backend aspect of programming
-- 💻 Casually looking for **Fall 2021** internship opportunities
-- ⚡ Fun fact: I play badminton, practise martial arts and volunteer at a cat shelter :cat:
 
 
 - 📫 How to reach me: ...
